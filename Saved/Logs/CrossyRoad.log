@@ -3667,3 +3667,741 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.12-22.44.29:841][791]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert7_Auto6
 [2024.05.12-22.44.29:841][791]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert7_Auto62C1729B44119A2D1EE4D249DD6433A69.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert7_Auto6.uasset'
 [2024.05.12-22.44.29:841][791]LogFileHelpers: Auto-saving content packages took 0.115
+[2024.05.12-22.58.33:716][ 93]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.12-22.58.33:723][ 93]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.12-22.58.33:732][ 94]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.12-22.58.40:825][407]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2024.05.12-22.58.40:825][407]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.12-22.59.00:612][942]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.12-22.59.00:621][942]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.12-22.59.00:627][942]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.12-22.59.00:629][943]LogAutomationController: Ignoring very large delta of 3.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.12-22.59.00:636][943]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.12-22.59.20:062][785]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_tree_rock_spawner
+[2024.05.12-22.59.20:075][785]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.12-22.59.25:291][931]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_tree_rock_spawner.BP_tree_rock_spawner
+[2024.05.12-22.59.25:291][931]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.12-22.59.25:291][931]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-22.59.25:455][931]LogViewport: Scene viewport resized to 700x588, mode Windowed.
+[2024.05.12-22.59.42:648][505]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.12-23.00.03:983][ 55]LogEditorTransaction: Undo Set Scale
+[2024.05.12-23.00.04:251][ 58]Cmd: TRANSACTION UNDO
+[2024.05.12-23.00.04:251][ 58]LogEditorTransaction: Undo Set Scale
+[2024.05.12-23.00.05:280][ 88]Cmd: TRANSACTION UNDO
+[2024.05.12-23.00.05:280][ 88]LogEditorTransaction: Undo Edit Static Mesh
+[2024.05.12-23.00.08:753][203]LogEditorTransaction: Redo Edit Static Mesh
+[2024.05.12-23.00.09:337][217]Cmd: TRANSACTION REDO
+[2024.05.12-23.00.09:337][217]LogEditorTransaction: Redo Set Scale
+[2024.05.12-23.00.11:575][286]Cmd: TRANSACTION UNDO
+[2024.05.12-23.00.11:575][286]LogEditorTransaction: Undo Set Scale
+[2024.05.12-23.02.54:242][342]BlueprintLog: New page: Compile BP_tree_rock_spawner
+[2024.05.12-23.02.54:274][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.05.12-23.03.06:070][714]LogSlate: Window 'BP_tree_rock_spawner' being destroyed
+[2024.05.12-23.03.06:078][714]LogSlate: Window 'BP_tree_rock_spawner' being destroyed
+[2024.05.12-23.03.06:080][714]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-23.03.06:080][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-23.03.14:603][920]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.12-23.03.14:612][920]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.12-23.03.14:618][920]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.12-23.03.14:627][921]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.12-23.03.21:314][211]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_grass
+[2024.05.12-23.03.21:319][211]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.12-23.03.23:243][291]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_grass.BP_grass
+[2024.05.12-23.03.23:243][291]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.12-23.03.23:243][291]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-23.03.23:401][291]LogViewport: Scene viewport resized to 700x588, mode Windowed.
+[2024.05.12-23.04.11:391][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.05.12-23.04.11:394][650]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2024.05.12-23.04.11:395][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.05.12-23.04.11:395][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.05.12-23.04.11:413][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2024.05.12-23.04.11:413][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/BP_ThirdPersonCharacter_Auto72BC9D9904EE45AA1D85E1CAFB25ECC57.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2024.05.12-23.04.11:413][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/log] ([1] browsable assets)...
+[2024.05.12-23.04.11:413][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/log]
+[2024.05.12-23.04.11:413][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/log" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/log_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:415][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/log_Auto7
+[2024.05.12-23.04.11:415][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/log_Auto7ED5C2CFC4C058CDDC8D16CA5E5BBE8C5.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/log_Auto7.uasset'
+[2024.05.12-23.04.11:416][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Material_002] ([1] browsable assets)...
+[2024.05.12-23.04.11:416][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Material_002]
+[2024.05.12-23.04.11:416][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Material_002" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Material_002_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:418][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Material_002_Auto7
+[2024.05.12-23.04.11:418][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Material_002_Auto70E6299FC457816604008C19638C39BD5.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Material_002_Auto7.uasset'
+[2024.05.12-23.04.11:418][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/rock] ([1] browsable assets)...
+[2024.05.12-23.04.11:418][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/rock]
+[2024.05.12-23.04.11:418][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/rock" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/rock_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:420][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/rock_Auto7
+[2024.05.12-23.04.11:420][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/rock_Auto74251139F4946736A6488E8829AFC9DF6.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/rock_Auto7.uasset'
+[2024.05.12-23.04.11:421][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn22] ([1] browsable assets)...
+[2024.05.12-23.04.11:421][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn22]
+[2024.05.12-23.04.11:421][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn22" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn22_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:422][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn22_Auto7
+[2024.05.12-23.04.11:422][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn22_Auto7722BBD024AF83DA47D6368AED54D3A1F.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn22_Auto7.uasset'
+[2024.05.12-23.04.11:422][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Truck] ([1] browsable assets)...
+[2024.05.12-23.04.11:422][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Truck]
+[2024.05.12-23.04.11:422][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Truck" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Truck_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:425][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Truck_Auto7
+[2024.05.12-23.04.11:425][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Truck_Auto73372034D4D7283C880646AA965C1456B.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Truck_Auto7.uasset'
+[2024.05.12-23.04.11:425][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn16] ([1] browsable assets)...
+[2024.05.12-23.04.11:425][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn16]
+[2024.05.12-23.04.11:425][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn16" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn16_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:427][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn16_Auto7
+[2024.05.12-23.04.11:427][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn16_Auto761607CD14EC90529692D28AF25063DB3.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn16_Auto7.uasset'
+[2024.05.12-23.04.11:427][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert3] ([1] browsable assets)...
+[2024.05.12-23.04.11:427][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert3]
+[2024.05.12-23.04.11:427][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert3" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert3_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:428][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert3_Auto7
+[2024.05.12-23.04.11:428][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert3_Auto73766C6524D6E8F3873735290A7B1EBB8.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert3_Auto7.uasset'
+[2024.05.12-23.04.11:429][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn14] ([1] browsable assets)...
+[2024.05.12-23.04.11:429][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn14]
+[2024.05.12-23.04.11:429][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn14" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn14_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:430][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn14_Auto7
+[2024.05.12-23.04.11:430][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn14_Auto724A278D04E31E2867636B397FE59CB14.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn14_Auto7.uasset'
+[2024.05.12-23.04.11:430][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn15] ([1] browsable assets)...
+[2024.05.12-23.04.11:430][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn15]
+[2024.05.12-23.04.11:430][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn15" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn15_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:432][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn15_Auto7
+[2024.05.12-23.04.11:432][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn15_Auto7E59C0E3D4A9554B457A683853E0C7E85.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn15_Auto7.uasset'
+[2024.05.12-23.04.11:432][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn17] ([1] browsable assets)...
+[2024.05.12-23.04.11:432][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn17]
+[2024.05.12-23.04.11:432][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn17" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn17_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:434][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn17_Auto7
+[2024.05.12-23.04.11:434][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn17_Auto761CFAC3A4AAF2A368DCBADB3284DE9AD.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn17_Auto7.uasset'
+[2024.05.12-23.04.11:434][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/bigtree] ([1] browsable assets)...
+[2024.05.12-23.04.11:434][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/bigtree]
+[2024.05.12-23.04.11:434][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/bigtree" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/bigtree_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:436][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/bigtree_Auto7
+[2024.05.12-23.04.11:436][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/bigtree_Auto7862761D64412463C3FCE48BBCE9666EE.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/bigtree_Auto7.uasset'
+[2024.05.12-23.04.11:437][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn20] ([1] browsable assets)...
+[2024.05.12-23.04.11:437][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn20]
+[2024.05.12-23.04.11:437][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn20" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn20_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:438][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn20_Auto7
+[2024.05.12-23.04.11:438][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn20_Auto7ECA204F44E368854A2C5C9A55B7677F5.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn20_Auto7.uasset'
+[2024.05.12-23.04.11:439][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn21] ([1] browsable assets)...
+[2024.05.12-23.04.11:439][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn21]
+[2024.05.12-23.04.11:439][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn21" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn21_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:439][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn21_Auto7
+[2024.05.12-23.04.11:439][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn21_Auto7446F6BBE49B2B379BB7C90B76A8D321D.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn21_Auto7.uasset'
+[2024.05.12-23.04.11:440][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Car] ([1] browsable assets)...
+[2024.05.12-23.04.11:440][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Car]
+[2024.05.12-23.04.11:440][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Car" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Car_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:443][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Car_Auto7
+[2024.05.12-23.04.11:443][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Car_Auto7B0C2223C4D88B611FCFC6786BA726B49.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Car_Auto7.uasset'
+[2024.05.12-23.04.11:443][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert1] ([1] browsable assets)...
+[2024.05.12-23.04.11:443][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert1]
+[2024.05.12-23.04.11:443][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert1" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert1_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:444][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert1_Auto7
+[2024.05.12-23.04.11:444][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert1_Auto7164A7AFB46FBBA2B361EA58EF9C5AE75.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert1_Auto7.uasset'
+[2024.05.12-23.04.11:445][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn7] ([1] browsable assets)...
+[2024.05.12-23.04.11:445][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn7]
+[2024.05.12-23.04.11:445][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn7" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn7_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:446][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn7_Auto7
+[2024.05.12-23.04.11:446][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn7_Auto7A52566FD4AE298A804397C89C42D148A.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn7_Auto7.uasset'
+[2024.05.12-23.04.11:446][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn18] ([1] browsable assets)...
+[2024.05.12-23.04.11:446][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn18]
+[2024.05.12-23.04.11:446][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn18" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn18_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:447][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn18_Auto7
+[2024.05.12-23.04.11:447][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn18_Auto728AC493A4D091C7A94C26A954DC06CE9.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn18_Auto7.uasset'
+[2024.05.12-23.04.11:448][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn19] ([1] browsable assets)...
+[2024.05.12-23.04.11:448][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn19]
+[2024.05.12-23.04.11:448][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn19" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn19_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:449][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn19_Auto7
+[2024.05.12-23.04.11:449][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn19_Auto79734E96A4B146D73665908A439C00D63.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn19_Auto7.uasset'
+[2024.05.12-23.04.11:450][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/chicken] ([1] browsable assets)...
+[2024.05.12-23.04.11:450][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/chicken]
+[2024.05.12-23.04.11:450][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/chicken" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/chicken_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:454][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/chicken_Auto7
+[2024.05.12-23.04.11:454][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/chicken_Auto761A34D52438EE185D9034FB2342C0843.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/chicken_Auto7.uasset'
+[2024.05.12-23.04.11:455][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert2] ([1] browsable assets)...
+[2024.05.12-23.04.11:455][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert2]
+[2024.05.12-23.04.11:455][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert2" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert2_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:456][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert2_Auto7
+[2024.05.12-23.04.11:456][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert2_Auto708DA19354E27D920EE3E96BD11F78337.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert2_Auto7.uasset'
+[2024.05.12-23.04.11:456][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert4] ([1] browsable assets)...
+[2024.05.12-23.04.11:456][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert4]
+[2024.05.12-23.04.11:456][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert4" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert4_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:457][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert4_Auto7
+[2024.05.12-23.04.11:457][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert4_Auto7BFDB7BE6434D4FE58B2DB3826B475591.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert4_Auto7.uasset'
+[2024.05.12-23.04.11:458][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert5] ([1] browsable assets)...
+[2024.05.12-23.04.11:458][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert5]
+[2024.05.12-23.04.11:458][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert5" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert5_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:459][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert5_Auto7
+[2024.05.12-23.04.11:459][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert5_Auto7C295AF8146BF3FCED316EC999755B9D5.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert5_Auto7.uasset'
+[2024.05.12-23.04.11:460][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert6] ([1] browsable assets)...
+[2024.05.12-23.04.11:460][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert6]
+[2024.05.12-23.04.11:460][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert6" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert6_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:461][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert6_Auto7
+[2024.05.12-23.04.11:461][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert6_Auto7E9AF523D4FA86CC52F5FDCA69A8DABBD.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert6_Auto7.uasset'
+[2024.05.12-23.04.11:461][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert7] ([1] browsable assets)...
+[2024.05.12-23.04.11:461][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert7]
+[2024.05.12-23.04.11:461][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert7" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert7_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.04.11:462][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert7_Auto7
+[2024.05.12-23.04.11:462][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert7_Auto7513C5FA640E1CF6A4FE98D96CBCDD5AF.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert7_Auto7.uasset'
+[2024.05.12-23.04.11:463][650]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_tree_rock_spawner] ([2] browsable assets)...
+[2024.05.12-23.04.11:598][650]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_tree_rock_spawner.BP_tree_rock_spawner]
+[2024.05.12-23.04.11:599][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_tree_rock_spawner]
+[2024.05.12-23.04.11:603][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_tree_rock_spawner_Auto7
+[2024.05.12-23.04.11:603][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/BP_tree_rock_spawner_Auto70E39C8B04041A43FE7F1248A0D4BB034.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_tree_rock_spawner_Auto7.uasset'
+[2024.05.12-23.04.11:604][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_grass] ([2] browsable assets)...
+[2024.05.12-23.04.11:604][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_grass]
+[2024.05.12-23.04.11:606][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_grass_Auto7
+[2024.05.12-23.04.11:606][650]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/BP_grass_Auto7A624AD4E435457A2884126A8628FCCDC.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_grass_Auto7.uasset'
+[2024.05.12-23.04.11:607][650]LogFileHelpers: Auto-saving content packages took 0.212
+[2024.05.12-23.17.52:127][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Cube) ...
+[2024.05.12-23.17.52:149][590]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.12-23.18.59:018][966]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Plane) ...
+[2024.05.12-23.19.18:779][651]LogDerivedDataCache: C:/Users/Edwin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.043 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1296 files in 2059 folders with total size 30 MiB.
+[2024.05.12-23.23.10:490][845]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-23.23.12:867][913]LogEditorTransaction: Redo Modify Component(s)
+[2024.05.12-23.23.23:322][270]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-23.23.23:683][275]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-23.23.24:329][292]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-23.23.25:399][323]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-23.23.31:826][544]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-23.23.32:173][549]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-23.23.32:697][563]LogEditorTransaction: Undo Rename Component Variable
+[2024.05.12-23.23.32:931][569]LogEditorTransaction: Undo Add Component
+[2024.05.12-23.23.33:140][574]LogEditorTransaction: Undo Replace component used material
+[2024.05.12-23.23.34:377][611]LogEditorTransaction: Redo Replace component used material
+[2024.05.12-23.23.34:744][622]LogEditorTransaction: Redo Add Component
+[2024.05.12-23.23.35:187][635]LogEditorTransaction: Redo Rename Component Variable
+[2024.05.12-23.23.36:030][663]LogEditorTransaction: Redo Modify Component(s)
+[2024.05.12-23.25.46:904][249]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-23.26.43:763][208]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-23.27.24:113][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.05.12-23.27.24:118][746]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.024
+[2024.05.12-23.27.24:118][746]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.05.12-23.27.24:118][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.05.12-23.27.24:137][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8
+[2024.05.12-23.27.24:137][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/BP_ThirdPersonCharacter_Auto8D2E9451645CDF9D33CFA0B930E9F909F.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8.uasset'
+[2024.05.12-23.27.24:138][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/log] ([1] browsable assets)...
+[2024.05.12-23.27.24:138][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/log]
+[2024.05.12-23.27.24:138][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/log" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/log_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:140][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/log_Auto8
+[2024.05.12-23.27.24:140][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/log_Auto82A2077974A4EFF93C39251A833D17A09.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/log_Auto8.uasset'
+[2024.05.12-23.27.24:141][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Material_002] ([1] browsable assets)...
+[2024.05.12-23.27.24:141][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Material_002]
+[2024.05.12-23.27.24:141][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Material_002" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Material_002_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:142][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Material_002_Auto8
+[2024.05.12-23.27.24:142][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Material_002_Auto8EB1BDB3B457DD51A480F66B7384D0804.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Material_002_Auto8.uasset'
+[2024.05.12-23.27.24:143][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/rock] ([1] browsable assets)...
+[2024.05.12-23.27.24:143][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/rock]
+[2024.05.12-23.27.24:143][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/rock" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/rock_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:145][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/rock_Auto8
+[2024.05.12-23.27.24:145][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/rock_Auto858C4432B4BFF0940777D83A0230E3EAD.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/rock_Auto8.uasset'
+[2024.05.12-23.27.24:146][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn22] ([1] browsable assets)...
+[2024.05.12-23.27.24:146][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn22]
+[2024.05.12-23.27.24:146][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn22" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn22_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:147][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn22_Auto8
+[2024.05.12-23.27.24:147][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn22_Auto85F29C7B84AF7164875908393F3F54595.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn22_Auto8.uasset'
+[2024.05.12-23.27.24:148][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Truck] ([1] browsable assets)...
+[2024.05.12-23.27.24:148][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Truck]
+[2024.05.12-23.27.24:148][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Truck" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Truck_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:151][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Truck_Auto8
+[2024.05.12-23.27.24:151][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Truck_Auto802E3B1DC4E6F29F6D4BE9497EEDADD0D.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Truck_Auto8.uasset'
+[2024.05.12-23.27.24:152][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn16] ([1] browsable assets)...
+[2024.05.12-23.27.24:152][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn16]
+[2024.05.12-23.27.24:152][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn16" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn16_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:153][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn16_Auto8
+[2024.05.12-23.27.24:153][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn16_Auto85A90506941143B06B912F6A61A8638FE.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn16_Auto8.uasset'
+[2024.05.12-23.27.24:154][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert3] ([1] browsable assets)...
+[2024.05.12-23.27.24:154][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert3]
+[2024.05.12-23.27.24:154][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert3" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert3_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:155][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert3_Auto8
+[2024.05.12-23.27.24:155][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert3_Auto82F6428804A9BA81D855294B104688E17.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert3_Auto8.uasset'
+[2024.05.12-23.27.24:156][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn14] ([1] browsable assets)...
+[2024.05.12-23.27.24:156][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn14]
+[2024.05.12-23.27.24:156][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn14" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn14_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:157][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn14_Auto8
+[2024.05.12-23.27.24:157][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn14_Auto8684B40B34210B511CA12EDAC9BFD6395.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn14_Auto8.uasset'
+[2024.05.12-23.27.24:158][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn15] ([1] browsable assets)...
+[2024.05.12-23.27.24:158][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn15]
+[2024.05.12-23.27.24:158][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn15" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn15_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:159][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn15_Auto8
+[2024.05.12-23.27.24:159][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn15_Auto82DCB4152456C47BDEE3B3A92EEFFAE89.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn15_Auto8.uasset'
+[2024.05.12-23.27.24:160][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn17] ([1] browsable assets)...
+[2024.05.12-23.27.24:160][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn17]
+[2024.05.12-23.27.24:160][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn17" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn17_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:161][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn17_Auto8
+[2024.05.12-23.27.24:161][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn17_Auto8A2C974A74F859C7E39D22DB4D30728E7.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn17_Auto8.uasset'
+[2024.05.12-23.27.24:162][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/bigtree] ([1] browsable assets)...
+[2024.05.12-23.27.24:162][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/bigtree]
+[2024.05.12-23.27.24:162][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/bigtree" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/bigtree_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:164][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/bigtree_Auto8
+[2024.05.12-23.27.24:164][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/bigtree_Auto8B4F7B1CA45FA8EE237A97FA1098DC252.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/bigtree_Auto8.uasset'
+[2024.05.12-23.27.24:165][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn20] ([1] browsable assets)...
+[2024.05.12-23.27.24:165][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn20]
+[2024.05.12-23.27.24:165][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn20" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn20_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:166][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn20_Auto8
+[2024.05.12-23.27.24:166][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn20_Auto85D480BD846A1747FAA9DEDADED35012E.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn20_Auto8.uasset'
+[2024.05.12-23.27.24:168][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn21] ([1] browsable assets)...
+[2024.05.12-23.27.24:168][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn21]
+[2024.05.12-23.27.24:168][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn21" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn21_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:169][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn21_Auto8
+[2024.05.12-23.27.24:169][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn21_Auto8AA95620F49171101E1E4A196B885ACE3.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn21_Auto8.uasset'
+[2024.05.12-23.27.24:170][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Car] ([1] browsable assets)...
+[2024.05.12-23.27.24:170][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Car]
+[2024.05.12-23.27.24:170][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Car" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Car_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:172][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Car_Auto8
+[2024.05.12-23.27.24:172][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Car_Auto85BEAE6024F0DD27E877136B52617FE12.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Car_Auto8.uasset'
+[2024.05.12-23.27.24:173][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert1] ([1] browsable assets)...
+[2024.05.12-23.27.24:173][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert1]
+[2024.05.12-23.27.24:173][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert1" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert1_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:174][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert1_Auto8
+[2024.05.12-23.27.24:174][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert1_Auto86EA33D674757B43476EA6BAF01B6BC91.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert1_Auto8.uasset'
+[2024.05.12-23.27.24:175][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn7] ([1] browsable assets)...
+[2024.05.12-23.27.24:175][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn7]
+[2024.05.12-23.27.24:175][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn7" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn7_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:176][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn7_Auto8
+[2024.05.12-23.27.24:176][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn7_Auto8F33847EC427A88E85B305BBD52780297.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn7_Auto8.uasset'
+[2024.05.12-23.27.24:177][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn18] ([1] browsable assets)...
+[2024.05.12-23.27.24:177][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn18]
+[2024.05.12-23.27.24:177][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn18" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn18_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:178][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn18_Auto8
+[2024.05.12-23.27.24:178][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn18_Auto812DA61AF44C00F4F6D4A6C972481663C.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn18_Auto8.uasset'
+[2024.05.12-23.27.24:179][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn19] ([1] browsable assets)...
+[2024.05.12-23.27.24:179][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn19]
+[2024.05.12-23.27.24:179][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn19" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn19_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:180][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn19_Auto8
+[2024.05.12-23.27.24:180][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn19_Auto8E1C4FAD14D71D0F0209D40831D3DD563.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn19_Auto8.uasset'
+[2024.05.12-23.27.24:181][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/chicken] ([1] browsable assets)...
+[2024.05.12-23.27.24:181][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/chicken]
+[2024.05.12-23.27.24:181][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/chicken" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/chicken_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:186][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/chicken_Auto8
+[2024.05.12-23.27.24:186][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/chicken_Auto8649FF42D4E02FA2218FE0A8F9053CBFB.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/chicken_Auto8.uasset'
+[2024.05.12-23.27.24:187][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert2] ([1] browsable assets)...
+[2024.05.12-23.27.24:187][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert2]
+[2024.05.12-23.27.24:187][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert2" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert2_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:188][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert2_Auto8
+[2024.05.12-23.27.24:188][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert2_Auto8C6D5A3B149C7AE99423BE0A83349381B.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert2_Auto8.uasset'
+[2024.05.12-23.27.24:189][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert4] ([1] browsable assets)...
+[2024.05.12-23.27.24:189][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert4]
+[2024.05.12-23.27.24:189][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert4" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert4_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:190][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert4_Auto8
+[2024.05.12-23.27.24:190][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert4_Auto89F66796649715614CD1B9998FFD76023.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert4_Auto8.uasset'
+[2024.05.12-23.27.24:191][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert5] ([1] browsable assets)...
+[2024.05.12-23.27.24:191][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert5]
+[2024.05.12-23.27.24:191][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert5" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert5_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:192][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert5_Auto8
+[2024.05.12-23.27.24:192][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert5_Auto878AB6BAC42F36F9F1E72A1A7CEF515A6.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert5_Auto8.uasset'
+[2024.05.12-23.27.24:193][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert6] ([1] browsable assets)...
+[2024.05.12-23.27.24:193][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert6]
+[2024.05.12-23.27.24:193][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert6" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert6_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:194][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert6_Auto8
+[2024.05.12-23.27.24:194][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert6_Auto8BE9A8D3A414B36233ADC479ADC2D4EDF.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert6_Auto8.uasset'
+[2024.05.12-23.27.24:195][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert7] ([1] browsable assets)...
+[2024.05.12-23.27.24:195][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert7]
+[2024.05.12-23.27.24:195][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert7" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert7_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.27.24:196][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert7_Auto8
+[2024.05.12-23.27.24:196][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert7_Auto8265B5CC4425663850897E38E1F969F7D.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert7_Auto8.uasset'
+[2024.05.12-23.27.24:197][746]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_tree_rock_spawner] ([2] browsable assets)...
+[2024.05.12-23.27.24:197][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_tree_rock_spawner]
+[2024.05.12-23.27.24:201][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_tree_rock_spawner_Auto8
+[2024.05.12-23.27.24:201][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/BP_tree_rock_spawner_Auto8ED8912024E1F27919A4FA598C461D4B4.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_tree_rock_spawner_Auto8.uasset'
+[2024.05.12-23.27.24:202][746]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_grass] ([2] browsable assets)...
+[2024.05.12-23.27.24:254][746]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_grass.BP_grass]
+[2024.05.12-23.27.24:254][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_grass]
+[2024.05.12-23.27.24:257][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_grass_Auto8
+[2024.05.12-23.27.24:257][746]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/BP_grass_Auto8BC55CB1048101FBF76C4A798DDAE624D.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_grass_Auto8.uasset'
+[2024.05.12-23.27.24:258][746]LogFileHelpers: Auto-saving content packages took 0.140
+[2024.05.12-23.37.24:923][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.05.12-23.37.24:924][243]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.019
+[2024.05.12-23.37.24:925][243]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_grass] ([2] browsable assets)...
+[2024.05.12-23.37.25:018][243]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_grass.BP_grass]
+[2024.05.12-23.37.25:018][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_grass]
+[2024.05.12-23.37.25:024][243]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_grass_Auto9
+[2024.05.12-23.37.25:024][243]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/BP_grass_Auto9EFF557F146141DAF9198A49F236EA6EB.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_grass_Auto9.uasset'
+[2024.05.12-23.37.25:025][243]LogFileHelpers: Auto-saving content packages took 0.100
+[2024.05.12-23.41.12:052][927]BlueprintLog: New page: Compile BP_grass
+[2024.05.12-23.41.12:056][927]LogBlueprint: Error: [AssetLog] /Game/ThirdPerson/Blueprints/BP_grass.BP_grass: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.05.12-23.41.12:056][927]LogBlueprint: Error: [AssetLog] /Game/ThirdPerson/Blueprints/BP_grass.BP_grass: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.05.12-23.41.12:088][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.12-23.41.51:732][859]LogEditorTransaction: Undo Add Node
+[2024.05.12-23.42.22:568][603]LogEditorTransaction: Undo Add Node
+[2024.05.12-23.43.59:405][289]LogEditorTransaction: Undo Create Pin Link
+[2024.05.12-23.44.19:101][638]BlueprintLog: New page: Compile BP_grass
+[2024.05.12-23.44.19:129][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.05.12-23.44.37:673][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.12-23.45.07:670][ 77]BlueprintLog: New page: Compile BP_grass
+[2024.05.12-23.45.07:700][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.05.12-23.45.27:552][588]LogSlate: Window 'BP_grass' being destroyed
+[2024.05.12-23.45.27:582][588]LogSlate: Window 'BP_grass' being destroyed
+[2024.05.12-23.45.27:614][588]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-23.45.27:614][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-23.45.47:361][ 90]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.12-23.45.47:370][ 90]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.12-23.45.47:376][ 90]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.12-23.45.47:385][ 91]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.12-23.45.52:266][297]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_car
+[2024.05.12-23.45.52:271][297]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.12-23.45.54:378][385]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_car.BP_car
+[2024.05.12-23.45.54:378][385]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.12-23.45.54:378][385]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-23.45.54:573][385]LogViewport: Scene viewport resized to 700x588, mode Windowed.
+[2024.05.12-23.46.06:779][748]Cmd: TRANSACTION UNDO
+[2024.05.12-23.46.06:779][748]LogEditorTransaction: Undo Add Component
+[2024.05.12-23.47.16:731][173]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.12-23.47.37:915][886]BlueprintLog: New page: Compile BP_car
+[2024.05.12-23.47.37:951][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.12-23.48.06:043][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.12-23.48.06:045][ 98]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.016
+[2024.05.12-23.48.06:045][ 98]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.05.12-23.48.06:045][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.05.12-23.48.06:064][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto0
+[2024.05.12-23.48.06:064][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/BP_ThirdPersonCharacter_Auto07B0DD250460BD6E6849793A6F3C15C20.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto0.uasset'
+[2024.05.12-23.48.06:065][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/log] ([1] browsable assets)...
+[2024.05.12-23.48.06:065][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/log]
+[2024.05.12-23.48.06:065][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/log" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/log_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:067][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/log_Auto0
+[2024.05.12-23.48.06:067][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/log_Auto090354C2A4B8BE5A198F60CB853D079FF.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/log_Auto0.uasset'
+[2024.05.12-23.48.06:068][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Material_002] ([1] browsable assets)...
+[2024.05.12-23.48.06:068][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Material_002]
+[2024.05.12-23.48.06:068][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Material_002" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Material_002_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:069][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Material_002_Auto0
+[2024.05.12-23.48.06:069][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Material_002_Auto00E21D349406163CA1EF5CAA1E94F5649.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Material_002_Auto0.uasset'
+[2024.05.12-23.48.06:070][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/rock] ([1] browsable assets)...
+[2024.05.12-23.48.06:070][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/rock]
+[2024.05.12-23.48.06:070][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/rock" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/rock_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:072][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/rock_Auto0
+[2024.05.12-23.48.06:072][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/rock_Auto03542BF6D4AEBC95979B1D881B01DD3B7.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/rock_Auto0.uasset'
+[2024.05.12-23.48.06:073][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn22] ([1] browsable assets)...
+[2024.05.12-23.48.06:073][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn22]
+[2024.05.12-23.48.06:073][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn22" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn22_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:074][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn22_Auto0
+[2024.05.12-23.48.06:074][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn22_Auto0957997BE492B3C375C2F62BF17681E22.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn22_Auto0.uasset'
+[2024.05.12-23.48.06:075][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Truck] ([1] browsable assets)...
+[2024.05.12-23.48.06:075][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Truck]
+[2024.05.12-23.48.06:075][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Truck" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Truck_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:077][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Truck_Auto0
+[2024.05.12-23.48.06:077][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Truck_Auto0F0CE91C94CA5DF44790B7B93AF004C5F.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Truck_Auto0.uasset'
+[2024.05.12-23.48.06:078][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn16] ([1] browsable assets)...
+[2024.05.12-23.48.06:078][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn16]
+[2024.05.12-23.48.06:078][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn16" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn16_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:079][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn16_Auto0
+[2024.05.12-23.48.06:079][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn16_Auto09C9A303D45DDC4155919E8B7EED41E80.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn16_Auto0.uasset'
+[2024.05.12-23.48.06:080][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert3] ([1] browsable assets)...
+[2024.05.12-23.48.06:080][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert3]
+[2024.05.12-23.48.06:080][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert3" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert3_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:081][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert3_Auto0
+[2024.05.12-23.48.06:081][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert3_Auto08132998746E9F26F30202E985E968925.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert3_Auto0.uasset'
+[2024.05.12-23.48.06:082][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn14] ([1] browsable assets)...
+[2024.05.12-23.48.06:082][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn14]
+[2024.05.12-23.48.06:082][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn14" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn14_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:084][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn14_Auto0
+[2024.05.12-23.48.06:084][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn14_Auto02F490D4B41EFC99366FA3D83682D728E.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn14_Auto0.uasset'
+[2024.05.12-23.48.06:085][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn15] ([1] browsable assets)...
+[2024.05.12-23.48.06:085][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn15]
+[2024.05.12-23.48.06:085][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn15" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn15_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:086][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn15_Auto0
+[2024.05.12-23.48.06:086][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn15_Auto02A00CCEC4E7D64B36FD590AE237343BD.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn15_Auto0.uasset'
+[2024.05.12-23.48.06:087][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn17] ([1] browsable assets)...
+[2024.05.12-23.48.06:087][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn17]
+[2024.05.12-23.48.06:087][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn17" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn17_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:088][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn17_Auto0
+[2024.05.12-23.48.06:088][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn17_Auto019540631414D62B9566A3E85C77567D5.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn17_Auto0.uasset'
+[2024.05.12-23.48.06:089][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/bigtree] ([1] browsable assets)...
+[2024.05.12-23.48.06:089][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/bigtree]
+[2024.05.12-23.48.06:089][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/bigtree" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/bigtree_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:091][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/bigtree_Auto0
+[2024.05.12-23.48.06:091][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/bigtree_Auto0DADA537F4A4AA8A54EF94DB81D4ED4D5.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/bigtree_Auto0.uasset'
+[2024.05.12-23.48.06:092][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn20] ([1] browsable assets)...
+[2024.05.12-23.48.06:092][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn20]
+[2024.05.12-23.48.06:092][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn20" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn20_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:093][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn20_Auto0
+[2024.05.12-23.48.06:093][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn20_Auto0E4B1FB734B37235CA621779E81A8E5EE.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn20_Auto0.uasset'
+[2024.05.12-23.48.06:094][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn21] ([1] browsable assets)...
+[2024.05.12-23.48.06:094][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn21]
+[2024.05.12-23.48.06:094][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn21" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn21_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:095][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn21_Auto0
+[2024.05.12-23.48.06:095][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn21_Auto0E3FDCFA04562366F401D27ADC398705F.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn21_Auto0.uasset'
+[2024.05.12-23.48.06:096][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Car] ([1] browsable assets)...
+[2024.05.12-23.48.06:096][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Car]
+[2024.05.12-23.48.06:096][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Car" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Car_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:098][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Car_Auto0
+[2024.05.12-23.48.06:098][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Car_Auto087B6C330473577ED885C3E933AA97572.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Car_Auto0.uasset'
+[2024.05.12-23.48.06:099][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert1] ([1] browsable assets)...
+[2024.05.12-23.48.06:099][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert1]
+[2024.05.12-23.48.06:099][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert1" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert1_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:100][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert1_Auto0
+[2024.05.12-23.48.06:100][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert1_Auto094F69474437CB953E41F14A79FE060F3.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert1_Auto0.uasset'
+[2024.05.12-23.48.06:101][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn7] ([1] browsable assets)...
+[2024.05.12-23.48.06:101][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn7]
+[2024.05.12-23.48.06:101][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn7" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn7_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:103][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn7_Auto0
+[2024.05.12-23.48.06:103][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn7_Auto05490E7B4474B08BCD2E5B4BDA115B82A.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn7_Auto0.uasset'
+[2024.05.12-23.48.06:104][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn18] ([1] browsable assets)...
+[2024.05.12-23.48.06:104][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn18]
+[2024.05.12-23.48.06:104][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn18" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn18_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:105][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn18_Auto0
+[2024.05.12-23.48.06:105][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn18_Auto0FEEE7B15459EA1634FB1C6B4DE3B2A51.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn18_Auto0.uasset'
+[2024.05.12-23.48.06:105][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn19] ([1] browsable assets)...
+[2024.05.12-23.48.06:105][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn19]
+[2024.05.12-23.48.06:105][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn19" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn19_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:106][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn19_Auto0
+[2024.05.12-23.48.06:106][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn19_Auto05FFA3DB04BE29E8CB41601A142401442.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn19_Auto0.uasset'
+[2024.05.12-23.48.06:107][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/chicken] ([1] browsable assets)...
+[2024.05.12-23.48.06:107][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/chicken]
+[2024.05.12-23.48.06:107][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/chicken" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/chicken_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:111][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/chicken_Auto0
+[2024.05.12-23.48.06:111][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/chicken_Auto0FD848CEB4CEED0E9F6D31F9E51F5D41C.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/chicken_Auto0.uasset'
+[2024.05.12-23.48.06:112][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert2] ([1] browsable assets)...
+[2024.05.12-23.48.06:112][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert2]
+[2024.05.12-23.48.06:112][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert2" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert2_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:114][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert2_Auto0
+[2024.05.12-23.48.06:114][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert2_Auto0E697A97248CEDEF543C6388B2AC2506B.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert2_Auto0.uasset'
+[2024.05.12-23.48.06:114][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert4] ([1] browsable assets)...
+[2024.05.12-23.48.06:114][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert4]
+[2024.05.12-23.48.06:114][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert4" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert4_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:115][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert4_Auto0
+[2024.05.12-23.48.06:115][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert4_Auto0D59905B0434C2EFCD3025799444FBB4F.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert4_Auto0.uasset'
+[2024.05.12-23.48.06:116][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert5] ([1] browsable assets)...
+[2024.05.12-23.48.06:116][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert5]
+[2024.05.12-23.48.06:116][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert5" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert5_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:117][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert5_Auto0
+[2024.05.12-23.48.06:117][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert5_Auto07A66B59F4DB0413CF8959CA84A0934D7.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert5_Auto0.uasset'
+[2024.05.12-23.48.06:118][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert6] ([1] browsable assets)...
+[2024.05.12-23.48.06:118][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert6]
+[2024.05.12-23.48.06:118][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert6" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert6_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:119][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert6_Auto0
+[2024.05.12-23.48.06:119][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert6_Auto0CF50BE0945959989676EB09DEE545AAF.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert6_Auto0.uasset'
+[2024.05.12-23.48.06:120][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert7] ([1] browsable assets)...
+[2024.05.12-23.48.06:120][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert7]
+[2024.05.12-23.48.06:120][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert7" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert7_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-23.48.06:122][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert7_Auto0
+[2024.05.12-23.48.06:122][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert7_Auto030CD807C451063467C8B548B7C1E99EA.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert7_Auto0.uasset'
+[2024.05.12-23.48.06:123][ 98]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_tree_rock_spawner] ([2] browsable assets)...
+[2024.05.12-23.48.06:123][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_tree_rock_spawner]
+[2024.05.12-23.48.06:126][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_tree_rock_spawner_Auto0
+[2024.05.12-23.48.06:126][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/BP_tree_rock_spawner_Auto04940C15F4E5DD0C2E559A6822612E76A.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_tree_rock_spawner_Auto0.uasset'
+[2024.05.12-23.48.06:127][ 98]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_grass] ([2] browsable assets)...
+[2024.05.12-23.48.06:189][ 98]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_grass.BP_grass]
+[2024.05.12-23.48.06:189][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_grass]
+[2024.05.12-23.48.06:197][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_grass_Auto0
+[2024.05.12-23.48.06:197][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/BP_grass_Auto01D12FCDC47983BA6DAC05298AA0E4EBF.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_grass_Auto0.uasset'
+[2024.05.12-23.48.06:198][ 98]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_car] ([2] browsable assets)...
+[2024.05.12-23.48.06:229][ 98]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_car.BP_car]
+[2024.05.12-23.48.06:230][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_car]
+[2024.05.12-23.48.06:233][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_car_Auto0
+[2024.05.12-23.48.06:233][ 98]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/BP_car_Auto097896C9342ACC88173DBCAB03E3B0BA4.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_car_Auto0.uasset'
+[2024.05.12-23.48.06:234][ 98]LogFileHelpers: Auto-saving content packages took 0.189
+[2024.05.12-23.51.02:955][969]BlueprintLog: New page: Compile BP_car
+[2024.05.12-23.51.02:988][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.05.12-23.51.08:816][170]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.12-23.51.08:822][170]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.12-23.51.08:822][170]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.12-23.51.08:823][170]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 25 ms)
+[2024.05.12-23.51.08:824][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.12-23.51.08:824][170]PIE: New page: PIE session: ThirdPersonMap (May 12, 2024, 9:51:08 AM)
+[2024.05.12-23.51.08:824][170]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.12-23.51.08:828][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003661s)
+[2024.05.12-23.51.08:828][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003699s)
+[2024.05.12-23.51.08:849][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.05.12-23.51.08:851][170]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.12-23.51.08:851][170]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-23.51.08:851][170]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.12-23.51.08:852][170]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.12-23.51.08:852][170]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.12-23.51.08:852][170]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.12-23.51.08:852][170]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.12-23.51.08:853][170]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.12-23.51.08:853][170]LogWorldPartition: Display: WorldPartition initialize took 937 us (total: 308 ms)
+[2024.05.12-23.51.08:853][170]LogPlayLevel: PIE: World Init took: (0.002153s)
+[2024.05.12-23.51.08:853][170]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.05.12-23.51.08:853][170]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.12-23.51.08:853][170]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.12-23.51.08:853][170]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.12-23.51.08:853][170]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.12-23.51.08:853][170]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.12-23.51.08:853][170]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.12-23.51.08:853][170]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.12-23.51.08:853][170]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.12-23.51.08:854][170]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.12-23.51.08:854][170]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.12-23.51.08:854][170]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.12-23.51.08:855][170]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.12-23.51.08:871][170]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.05.12-23.51.08:871][170]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.12-23.51.08:871][170]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.12-23.51.08:872][170]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.12-23.51.08:872][170]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.05.12-23.51.08:872][170]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.05.12-23.51.08:874][170]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.05.12-23.51.08:874][170]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.05.12-23.51.08:874][170]LogInit: FAudioDevice initialized with ID 19.
+[2024.05.12-23.51.08:874][170]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonMap'.
+[2024.05.12-23.51.08:874][170]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.05.12-23.51.08:898][170]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.12-23.51.08:900][170]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.12-16.51.08
+[2024.05.12-23.51.08:900][170]LogWorld: Bringing up level for play took: 0.001562
+[2024.05.12-23.51.08:902][170]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2024.05.12-23.51.08:904][170]PIE: Server logged in
+[2024.05.12-23.51.08:905][170]PIE: Play in editor total start time 0.083 seconds.
+[2024.05.12-23.51.17:924][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-23.51.17:924][476]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.12-23.51.17:924][476]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-23.51.17:925][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-23.51.17:925][476]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.12-23.51.17:927][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.12-23.51.17:930][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-23.51.17:944][476]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.12-23.51.17:944][476]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.05.12-23.51.17:944][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.05.12-23.51.17:945][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.05.12-23.51.17:950][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-23.51.17:952][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.12-23.51.18:020][477]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.05.12-23.54.36:107][528]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_tree_rock_spawner.BP_tree_rock_spawner
+[2024.05.12-23.54.36:108][528]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.12-23.54.36:108][528]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-23.58.15:507][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.12-23.58.15:510][351]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.017
+[2024.05.12-23.58.15:510][351]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_car] ([2] browsable assets)...
+[2024.05.12-23.58.15:605][351]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_car.BP_car]
+[2024.05.12-23.58.15:605][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_car]
+[2024.05.12-23.58.15:608][351]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_car_Auto1
+[2024.05.12-23.58.15:608][351]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/BP_car_Auto1FE6C12D6444E63FF1F9626A3F0F390EF.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_car_Auto1.uasset'
+[2024.05.12-23.58.15:609][351]LogFileHelpers: Auto-saving content packages took 0.100
+[2024.05.13-00.19.18:792][141]LogDerivedDataCache: C:/Users/Edwin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.056 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1297 files in 2060 folders with total size 30 MiB.
+[2024.05.13-01.19.17:824][938]LogDerivedDataCache: C:/Users/Edwin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.087 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1297 files in 2060 folders with total size 30 MiB.
+[2024.05.13-01.37.54:655][ 20]LogEditorTransaction: Undo Delete current selection
+[2024.05.13-01.38.52:382][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.05.13-01.38.52:388][ 97]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.021
+[2024.05.13-01.38.52:389][ 97]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.05.13-01.38.52:389][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.05.13-01.38.52:406][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2024.05.13-01.38.52:407][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/BP_ThirdPersonCharacter_Auto26E6F3FE44C36F937F93EE0BE9D7CEDF8.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2024.05.13-01.38.52:408][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/log] ([1] browsable assets)...
+[2024.05.13-01.38.52:408][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/log]
+[2024.05.13-01.38.52:408][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/log" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/log_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:410][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/log_Auto2
+[2024.05.13-01.38.52:410][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/log_Auto232D3254443C7C48AFC702AB3BBC78ECD.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/log_Auto2.uasset'
+[2024.05.13-01.38.52:411][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Material_002] ([1] browsable assets)...
+[2024.05.13-01.38.52:412][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Material_002]
+[2024.05.13-01.38.52:412][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Material_002" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Material_002_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:413][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Material_002_Auto2
+[2024.05.13-01.38.52:413][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Material_002_Auto27842BBED461F388F3A8A43A91F5DA3A6.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Material_002_Auto2.uasset'
+[2024.05.13-01.38.52:414][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/rock] ([1] browsable assets)...
+[2024.05.13-01.38.52:414][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/rock]
+[2024.05.13-01.38.52:414][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/rock" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/rock_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:416][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/rock_Auto2
+[2024.05.13-01.38.52:417][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/rock_Auto28A07EFAA45AA34F6923FE3B0CB64E25B.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/rock_Auto2.uasset'
+[2024.05.13-01.38.52:418][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn22] ([1] browsable assets)...
+[2024.05.13-01.38.52:418][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn22]
+[2024.05.13-01.38.52:418][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn22" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn22_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:419][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn22_Auto2
+[2024.05.13-01.38.52:419][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn22_Auto2BEF19AAA4534A2047E0457892E01348A.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn22_Auto2.uasset'
+[2024.05.13-01.38.52:420][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Truck] ([1] browsable assets)...
+[2024.05.13-01.38.52:420][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Truck]
+[2024.05.13-01.38.52:420][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Truck" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Truck_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:423][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Truck_Auto2
+[2024.05.13-01.38.52:424][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Truck_Auto2243DE53743FF53929524FB9018D89E52.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Truck_Auto2.uasset'
+[2024.05.13-01.38.52:425][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn16] ([1] browsable assets)...
+[2024.05.13-01.38.52:425][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn16]
+[2024.05.13-01.38.52:425][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn16" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn16_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:426][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn16_Auto2
+[2024.05.13-01.38.52:426][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn16_Auto2CC29A15642E652689D72D0851199F5E3.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn16_Auto2.uasset'
+[2024.05.13-01.38.52:427][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert3] ([1] browsable assets)...
+[2024.05.13-01.38.52:427][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert3]
+[2024.05.13-01.38.52:427][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert3" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert3_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:428][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert3_Auto2
+[2024.05.13-01.38.52:429][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert3_Auto2CC95F559468D09F9688ABE90D517B657.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert3_Auto2.uasset'
+[2024.05.13-01.38.52:430][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn14] ([1] browsable assets)...
+[2024.05.13-01.38.52:430][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn14]
+[2024.05.13-01.38.52:430][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn14" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn14_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:431][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn14_Auto2
+[2024.05.13-01.38.52:431][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn14_Auto2D0155C2F434A139218C4039838BFC0E4.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn14_Auto2.uasset'
+[2024.05.13-01.38.52:432][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn15] ([1] browsable assets)...
+[2024.05.13-01.38.52:432][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn15]
+[2024.05.13-01.38.52:432][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn15" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn15_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:433][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn15_Auto2
+[2024.05.13-01.38.52:434][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn15_Auto2B06D9B9A49A4575A82D83E92E7E98FDD.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn15_Auto2.uasset'
+[2024.05.13-01.38.52:435][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn17] ([1] browsable assets)...
+[2024.05.13-01.38.52:435][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn17]
+[2024.05.13-01.38.52:435][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn17" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn17_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:435][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn17_Auto2
+[2024.05.13-01.38.52:436][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn17_Auto2A76243F148DA58F6D52C83B6E0647074.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn17_Auto2.uasset'
+[2024.05.13-01.38.52:437][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/bigtree] ([1] browsable assets)...
+[2024.05.13-01.38.52:437][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/bigtree]
+[2024.05.13-01.38.52:437][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/bigtree" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/bigtree_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:439][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/bigtree_Auto2
+[2024.05.13-01.38.52:439][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/bigtree_Auto2D801DEBC46C9057BFC0ADCB405D48DBD.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/bigtree_Auto2.uasset'
+[2024.05.13-01.38.52:440][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn20] ([1] browsable assets)...
+[2024.05.13-01.38.52:440][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn20]
+[2024.05.13-01.38.52:440][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn20" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn20_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:441][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn20_Auto2
+[2024.05.13-01.38.52:442][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn20_Auto27355925B4FE2B920B19BFEA243FC3F6B.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn20_Auto2.uasset'
+[2024.05.13-01.38.52:443][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn21] ([1] browsable assets)...
+[2024.05.13-01.38.52:443][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn21]
+[2024.05.13-01.38.52:443][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn21" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn21_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:444][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn21_Auto2
+[2024.05.13-01.38.52:444][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn21_Auto2DABA5CB04F55D39AB356A2A2711AE539.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn21_Auto2.uasset'
+[2024.05.13-01.38.52:445][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Car] ([1] browsable assets)...
+[2024.05.13-01.38.52:445][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Car]
+[2024.05.13-01.38.52:445][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Car" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Car_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:448][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Car_Auto2
+[2024.05.13-01.38.52:448][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Car_Auto201028D6B4E61155955816780F0624AD7.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/Car_Auto2.uasset'
+[2024.05.13-01.38.52:449][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert1] ([1] browsable assets)...
+[2024.05.13-01.38.52:449][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert1]
+[2024.05.13-01.38.52:449][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert1" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert1_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:450][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert1_Auto2
+[2024.05.13-01.38.52:451][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert1_Auto26390461B4F695077953C1AA3E9470CE3.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert1_Auto2.uasset'
+[2024.05.13-01.38.52:452][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn7] ([1] browsable assets)...
+[2024.05.13-01.38.52:452][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn7]
+[2024.05.13-01.38.52:452][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn7" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn7_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:453][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn7_Auto2
+[2024.05.13-01.38.52:453][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn7_Auto292E5AC82425605E9F16AD4917774177D.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn7_Auto2.uasset'
+[2024.05.13-01.38.52:454][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn18] ([1] browsable assets)...
+[2024.05.13-01.38.52:454][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn18]
+[2024.05.13-01.38.52:454][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn18" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn18_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:455][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn18_Auto2
+[2024.05.13-01.38.52:456][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn18_Auto2E4AF9F14454982373694E385D53FD675.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn18_Auto2.uasset'
+[2024.05.13-01.38.52:457][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/blinn19] ([1] browsable assets)...
+[2024.05.13-01.38.52:457][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn19]
+[2024.05.13-01.38.52:457][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn19" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn19_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:458][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/blinn19_Auto2
+[2024.05.13-01.38.52:458][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/blinn19_Auto2CA10B908495C66565D55D3AC94A312AB.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/blinn19_Auto2.uasset'
+[2024.05.13-01.38.52:459][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/chicken] ([1] browsable assets)...
+[2024.05.13-01.38.52:459][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/chicken]
+[2024.05.13-01.38.52:459][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/chicken" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/chicken_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:464][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/chicken_Auto2
+[2024.05.13-01.38.52:464][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/chicken_Auto215261F1B4AB0A878C948A5B6EF720E95.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/chicken_Auto2.uasset'
+[2024.05.13-01.38.52:465][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert2] ([1] browsable assets)...
+[2024.05.13-01.38.52:465][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert2]
+[2024.05.13-01.38.52:465][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert2" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert2_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:466][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert2_Auto2
+[2024.05.13-01.38.52:467][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert2_Auto27393337E4750D3350B632D9BC86B6336.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert2_Auto2.uasset'
+[2024.05.13-01.38.52:468][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert4] ([1] browsable assets)...
+[2024.05.13-01.38.52:468][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert4]
+[2024.05.13-01.38.52:468][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert4" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert4_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:469][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert4_Auto2
+[2024.05.13-01.38.52:469][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert4_Auto290EB24B849DF475F7527CF971D194179.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert4_Auto2.uasset'
+[2024.05.13-01.38.52:470][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert5] ([1] browsable assets)...
+[2024.05.13-01.38.52:470][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert5]
+[2024.05.13-01.38.52:470][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert5" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert5_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:471][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert5_Auto2
+[2024.05.13-01.38.52:472][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert5_Auto2B4F9C3B64E049E24985E60943B0D8B11.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert5_Auto2.uasset'
+[2024.05.13-01.38.52:473][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert6] ([1] browsable assets)...
+[2024.05.13-01.38.52:473][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert6]
+[2024.05.13-01.38.52:473][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert6" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert6_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:474][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert6_Auto2
+[2024.05.13-01.38.52:474][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert6_Auto2EAD917DE4E714CCBEA6D7BA1EAFAE583.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert6_Auto2.uasset'
+[2024.05.13-01.38.52:475][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/lambert7] ([1] browsable assets)...
+[2024.05.13-01.38.52:475][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert7]
+[2024.05.13-01.38.52:475][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert7" FILE="C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert7_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-01.38.52:476][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/lambert7_Auto2
+[2024.05.13-01.38.52:477][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/lambert7_Auto2907ECC11445D4B555ABCB284F7D01E05.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/assets/lambert7_Auto2.uasset'
+[2024.05.13-01.38.52:478][ 97]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_tree_rock_spawner] ([2] browsable assets)...
+[2024.05.13-01.38.52:478][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_tree_rock_spawner]
+[2024.05.13-01.38.52:481][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_tree_rock_spawner_Auto2
+[2024.05.13-01.38.52:482][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/BP_tree_rock_spawner_Auto24EC180A546133FAD3662599F048E3FB6.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_tree_rock_spawner_Auto2.uasset'
+[2024.05.13-01.38.52:482][ 97]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_grass] ([2] browsable assets)...
+[2024.05.13-01.38.52:482][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_grass]
+[2024.05.13-01.38.52:490][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_grass_Auto2
+[2024.05.13-01.38.52:490][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/BP_grass_Auto2AB2F8F14487BB898DFEBDBB30CB5692D.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_grass_Auto2.uasset'
+[2024.05.13-01.38.52:491][ 97]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_car] ([2] browsable assets)...
+[2024.05.13-01.38.52:550][ 97]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_car.BP_car]
+[2024.05.13-01.38.52:550][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_car]
+[2024.05.13-01.38.52:554][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_car_Auto2
+[2024.05.13-01.38.52:554][ 97]LogSavePackage: Moving 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/BP_car_Auto2A293316E4FAA45662D7144AF277486F9.tmp' to 'C:/Users/Edwin/Documents/GitHub/CrossyRoad/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_car_Auto2.uasset'
+[2024.05.13-01.38.52:555][ 97]LogFileHelpers: Auto-saving content packages took 0.167
+[2024.05.13-01.39.17:001][171]BlueprintLog: New page: Compile BP_car
+[2024.05.13-01.39.17:027][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
