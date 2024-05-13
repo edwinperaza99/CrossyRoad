@@ -5,7 +5,35 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/bigtree.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/blinn14.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/blinn15.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/blinn16.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/blinn17.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/blinn18.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/blinn19.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/blinn20.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/blinn21.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/blinn22.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/blinn7.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/ThirdPerson/Blueprints/BP_car.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/ThirdPerson/Blueprints/BP_grass.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/ThirdPerson/Blueprints/BP_tree_rock_spawner.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/Car.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/chicken.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/lambert1.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/lambert2.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/lambert3.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/lambert4.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/lambert5.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/lambert6.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/lambert7.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/log.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/Material_002.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/rock.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/Truck.uasset"
 			]
 		}
 	]
