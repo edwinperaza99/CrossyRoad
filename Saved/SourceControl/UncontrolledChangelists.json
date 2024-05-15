@@ -33,7 +33,10 @@
 				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/log.uasset",
 				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/Material_002.uasset",
 				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/rock.uasset",
-				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/Truck.uasset"
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/assets/Truck.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/ThirdPerson/Blueprints/BP_road.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/ThirdPerson/Blueprints/BP_logs.uasset",
+				"C:/Users/Edwin/Documents/GitHub/CrossyRoad/Content/ThirdPerson/Blueprints/BP_river.uasset"
 			]
 		}
 	]
